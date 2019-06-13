@@ -14,6 +14,7 @@ Generate client and server stubs, and HTML documentation from OpenAPI definition
 - Open the [**Command Palette**](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette) and type "OpenAPI" to see the actions available.
 - Or, to access the context menu commands, from the Codewind view, bring up the context menu on a project and select one of the Generate actions.
 - Ensure the OpenAPI definition is in the folder/project prior to running the commands
+- After generation, edit .openapi-generator-ignore to ensure subsequent code generation does not overwrite custom code
 
 ## Features
 - Generate API clients in any of the supported [languages/frameworks](https://github.com/OpenAPITools/openapi-generator#overview)
