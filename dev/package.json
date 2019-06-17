@@ -20,17 +20,17 @@
 		"commands": [
 			{
 				"command": "codewind.openapi-generate-client",
-				"title": "Generate Client from OpenAPI Definition",
+				"title": "Generate Client from OpenAPI Specification",
 				"category": "OpenAPI"
 			},
 			{
 				"command": "codewind.openapi-generate-server",
-				"title": "Generate Server from OpenAPI Definition",
+				"title": "Generate Server from OpenAPI Specification",
 				"category": "OpenAPI"
 			},
 			{
 				"command": "codewind.openapi-generate-html2",
-				"title": "Generate HTML from OpenAPI Definition",
+				"title": "Generate HTML from OpenAPI Specification",
 				"category": "OpenAPI"
 			}
 		],
