@@ -9,7 +9,7 @@
     "wizard": {
         "selectOutputFolder": "Select As Output Folder",
         "errorNoFoldersInWorkspace": "There are no folders in this workspace.  No stub was generated.",
-        "promptToOverwrite": "Existing files may be overwritten.  Add filters to .openapi-generator-ignore to ensure desired files are not overwritten. Continue?",
+        "promptToOverwrite": "Existing files might be overwritten. Add filters to .openapi-generator-ignore to ensure that the wanted files are not overwritten. Continue?",
         "yes": "Yes",
         "promptToPullImage": "The docker image, openapi-generator-cli, needs to be pulled from dockerhub. Continue?",
         "pullingImage": "Pulling image",
