@@ -1,7 +1,6 @@
-# codewind-vscode-openapi-tools
-Codewind OpenAPI Tools for VS Code
+# Codewind OpenAPI Tools for VS Code
 
-Generate client and server stubs, and HTML documentation from OpenAPI definitions.
+The Codewind OpenAPI Tools for VS Code provides commands that invoke the OpenAPI Generator to create API clients, server stubs, and HTML documentation from OpenAPI Specifications. The tools have been integrated with Codewind for VS Code but they can also work standalone without the Codewind extension.
 
 ## Getting started
 
